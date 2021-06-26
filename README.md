@@ -48,4 +48,13 @@ If you run into any problems, feel free to let me know. You can contact me using
 
 ### License ⚠️
 -   Copyright (C) 2020 by  [M.Furkan](https://github.com/Muhammedfurkan)  ❤️️
--   Licensed under the terms of the  [Mozilla Public License 2.0](https://github.com/muhammedfurkan/TelethonUserBot/blob/master/LICENSE)
+-   Licensed under the terms of the  [Mozilla Public License 2.0]
+-   
+-   
+-   
+-   https://gitpod.io/#https://github.com/VSPMG143/TelethonUserBot
+-   
+-   
+-   
+-   
+-   (https://github.com/muhammedfurkan/TelethonUserBot/blob/master/LICENSE)
